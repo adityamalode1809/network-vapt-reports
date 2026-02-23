@@ -80,7 +80,7 @@ The test focused on:
 
 The assessment followed a structured penetration testing approach:
 
-1. Reconnaissance  
+1. Reconnaissance 
 2. Port Scanning  
 3. Service Enumeration  
 4. Vulnerability Analysis  
