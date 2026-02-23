@@ -55,11 +55,10 @@ Password: msfadmin
 Then the machine starts after entering the credentials …
 
 ![Metasploitable Login](./screenshots/login.png)
-
 Find machine IP address by using the following command in terminal:
 
 ifconfig
-![Metasploitable Login](./screenshots/ifconfig.png)
+![Metasploitable Login](./screenshots/login.png)
 
 ---
 ## 🛡️ Objective
