@@ -38,7 +38,7 @@ After downloading the Metasploitable2 Image, open VMWare Workstation Pro and fol
 ---
 Click on the "Open a Virtual Machine" button.
 Select the Metasploitable2 image and click the "Open" button.
-Screenshot `vmware.png`
+Screenshot (vmware.png)
 
 Now power on this virtual machine.
 Screenshot
