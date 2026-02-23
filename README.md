@@ -58,7 +58,7 @@ Then the machine starts after entering the credentials …
 Find machine IP address by using the following command in terminal:
 
 ifconfig
-![Metasploitable Login](./screenshots/login.png)
+![ifconfig Output](./screenshots/ifconfig.png)
 
 ---
 ## 🛡️ Objective
