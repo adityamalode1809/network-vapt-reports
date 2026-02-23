@@ -42,10 +42,11 @@ Select the Metasploitable2 image and click the "Open" button.
 ![VMware Setup](./screenshots/vmware.png)
 
 Now power on this virtual machine.
-Screenshot
+![Power On VM](./screenshots/power-on.png)
 
 Now this machine starts…
-Screenshot
+
+![VM Boot Screen](./screenshots/boot.png)
 
 Default passwords for Metasploitable2 are:
 
@@ -53,12 +54,12 @@ Username: msfadmin
 Password: msfadmin
 Then the machine starts after entering the credentials …
 
-Screenshot
+![Metasploitable Login](./screenshots/login.png)
 
 Find machine IP address by using the following command in terminal:
 
 ifconfig
-Screenshot
+![Metasploitable Login](./screenshots/ifconfig.png)
 
 ---
 ## 🛡️ Objective
